@@ -57,6 +57,13 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to see the s
 
 ---
 
+## 🌐 Live Demo
+
+Deployed on Vercel:
+👉 [https://zentry-inspired-awwwards-website.vercel.app/](https://zentry-inspired-awwwards-website.vercel.app/)
+
+---
+
 ## 👤 Author
 
 Developed by **Amay Tripathi**
