@@ -1,4 +1,4 @@
-# ZentryInspired-AwwwardsWebsite
+# AwwwardsStyle-GestureBased-Website
 
 An award-style animated website inspired by **Zentry** — featuring scroll-triggered motion, smooth 3D hover transitions, and modern video integration. Built with **React.js**, **Tailwind CSS**, and **GSAP**, the project replicates the polished, high-impact user experience of top-tier front-end sites recognized by [Awwwards](https://www.awwwards.com/).
 
@@ -42,8 +42,8 @@ An award-style animated website inspired by **Zentry** — featuring scroll-trig
 ### Installation
 
 ```bash
-git clone https://github.com/AmayTrip29/ZentryInspired-AwwwardsWebsite.git
-cd ZentryInspired-AwwwardsWebsite
+git clone https://github.com/AmayTrip29/AwwwardsStyle-GestureBased-Website.git
+cd AwwwardsStyle-GestureBased-Website
 npm install
 ```
 
